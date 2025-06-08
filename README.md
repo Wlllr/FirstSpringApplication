@@ -1,6 +1,6 @@
 # 🚀 FirstSpringApplication
 
-Este é um projeto CRUD de usuários feito com **Spring Boot**, com persistência no banco **MySQL na nuvem (Railway)** e deploy gratuito na plataforma **Render**. Foi desenvolvido com foco em aprendizado backend usando boas práticas, arquitetura MVC, testes automatizados e documentação com Swagger.
+Este é um projeto CRUD de usuários feito com **Spring Boot**, com persistência no banco **MySQL na nuvem (Railway)** e deploy gratuito na plataforma **Render**. Foi desenvolvido com foco em aprendizado backend usando boas práticas, arquitetura Restful, testes automatizados e documentação com Swagger.
 
 ---
 
